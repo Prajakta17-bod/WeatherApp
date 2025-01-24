@@ -24,3 +24,4 @@ The Weather App is a web application built with python and Django that provides 
 ![home page](https://github.com/Prajakta17-bod/WeatherApp/blob/main/screenshots/tokyo.png?raw=true)
 
 ### Error Page(Default View)
+![error](https://github.com/Prajakta17-bod/WeatherApp/blob/main/screenshots/error.png?raw=true)
