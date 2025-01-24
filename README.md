@@ -20,3 +20,4 @@ The Weather App is a web application built with python and Django that provides 
 ## Snapshots 
 *Homepage
 ![home page](https://github.com/Prajakta17-bod/WeatherApp/blob/main/screenshots/homepage%20london.png?raw=true)
+![home page]( https://github.com/Prajakta17-bod/WeatherApp/blob/main/screenshots/mumbai.png?raw=true)
