@@ -5,3 +5,10 @@ The Weather App is a web application built with python and Django that provides 
 * Fetch and display real-time weather data for any city worldwide.
 * Shows temperature ,weather conditions and day.
 * Includes a city images for better visulaization.
+
+## Technologies Used
+* Backend : Python,Django
+* Frontend : HTML5,CSS3
+* API:OpenWeather API
+* Database:SQLite
+* 
