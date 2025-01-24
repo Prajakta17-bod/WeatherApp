@@ -11,4 +11,11 @@ The Weather App is a web application built with python and Django that provides 
 * Frontend : HTML5,CSS3
 * API:OpenWeather API
 * Database:SQLite
-* 
+
+## Usage 
+* Open the app in your browser.
+* Enter the name of you city in the search bar.
+* View the current weather and city image.
+
+## Snapshots 
+###Home Page
