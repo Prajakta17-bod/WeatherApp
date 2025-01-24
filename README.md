@@ -18,4 +18,5 @@ The Weather App is a web application built with python and Django that provides 
 * View the current weather and city image.
 
 ## Snapshots 
-###Home Page
+*Homepage
+![home page](https://github.com/Prajakta17-bod/WeatherApp/blob/main/screenshots/homepage%20london.png?raw=true)
